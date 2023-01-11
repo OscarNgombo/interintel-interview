@@ -1,16 +1,8 @@
-# interintel_interview
+# InterIntel-interview
+The InterIntel Flutter Interview Test is the focus of this repository. This project includes:
+A side menu drawer with four menu items information, design, response, and Dictionary
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Achievements
+successfully added a side menu drawer with information, design, response, and dictionary as menu items.
+Added the ability to communicate with an API via a network call and collected data via API.
+Sort a dictionary further and iterate it.
